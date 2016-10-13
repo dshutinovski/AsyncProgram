@@ -1,0 +1,14 @@
+D:\GitHub\AsyncProgram\ConsoleApplication1\ConsoleApplication1\bin\Debug\AsyncConsole.exe.config
+D:\GitHub\AsyncProgram\ConsoleApplication1\ConsoleApplication1\bin\Debug\AsyncConsole.exe
+D:\GitHub\AsyncProgram\ConsoleApplication1\ConsoleApplication1\bin\Debug\AsyncConsole.pdb
+D:\GitHub\AsyncProgram\ConsoleApplication1\ConsoleApplication1\obj\Debug\AsyncConsole.exe
+D:\GitHub\AsyncProgram\ConsoleApplication1\ConsoleApplication1\obj\Debug\AsyncConsole.pdb
+D:\GitHub\AsyncProgram\ConsoleApplication1\bin\Debug\AsyncConsole.exe.config
+D:\GitHub\AsyncProgram\ConsoleApplication1\obj\Debug\AsyncConsole.exe
+D:\GitHub\AsyncProgram\ConsoleApplication1\obj\Debug\AsyncConsole.pdb
+D:\GitHub\AsyncProgram\AsyncConsole\bin\Debug\AsyncConsole.exe.config
+D:\GitHub\AsyncProgram\AsyncConsole\obj\Debug\AsyncConsole.exe
+D:\GitHub\AsyncProgram\AsyncConsole\obj\Debug\AsyncConsole.pdb
+D:\GitHub\AsyncProgram\AsyncConsole\bin\Debug\AsyncConsole.exe
+D:\GitHub\AsyncProgram\AsyncConsole\bin\Debug\AsyncConsole.pdb
+D:\GitHub\AsyncProgram\AsyncConsole\obj\Debug\AsyncConsole.csprojResolveAssemblyReference.cache
