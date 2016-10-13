@@ -46,8 +46,8 @@
     <Compile Include="Car.cs" />
     <Compile Include="CarDinamics.cs" />
     <Compile Include="CarModel.cs" />
-    <Compile Include="ICombustion.cs" />
-    <Compile Include="ICombustionCost.cs" />
+    <Compile Include="Interfaces\ICombustion.cs" />
+    <Compile Include="Interfaces\ICombustionCost.cs" />
     <Compile Include="Manufacturer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -1,5 +1,6 @@
 ﻿namespace AsyncConsole
 {
+    using AsyncConsole.Interfaces;
     using System.Threading;
     using System.Threading.Tasks;
 
