@@ -1,9 +1,10 @@
-﻿namespace AsyncConsole
-{
-    using AsyncConsole.Interfaces;
-    using System.Threading;
-    using System.Threading.Tasks;
+﻿using AsyncConsole.Interfaces;
 
+using System.Threading;
+using System.Threading.Tasks;
+
+namespace AsyncConsole
+{
     public class CarDinamics : ICombustion, ICombustionCost
     {
         public CarDinamics(Car car)
@@ -11,7 +12,7 @@
             Car = car;
         }
 
-        private Car Car { get; set; }
+        private Car Car { get; }
 
         public async Task<double> CombustionRatioPerDistance(int distance)
         {
@@ -39,7 +40,7 @@
 
         private double CalculateCombustionRatioBasedOnDistance(int distance)
         {
-            return (double)distance / 100 * (double)Car.Combustion;
+            return (double)distance / 100 * Car.Combustion;
         }
 
         private double CalculateCombustionRatioBasedOnHoursDrivenAtCirtainSpeed(int hours, int speed)
@@ -49,7 +50,7 @@
 
         private double CalculateCostForParticularDistance(int distance, double fuelPrice)
         {
-            return (double)distance / 100 * (double)Car.Combustion * fuelPrice;
+            return (double)distance / 100 * Car.Combustion * fuelPrice;
         }
 
         private double CalculateCostPerHoursDrivenAtCertainSpeed(int hours, int speed, double fuelPrice)

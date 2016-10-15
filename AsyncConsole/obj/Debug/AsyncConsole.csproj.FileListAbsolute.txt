@@ -12,3 +12,8 @@ D:\GitHub\AsyncProgram\AsyncConsole\obj\Debug\AsyncConsole.pdb
 D:\GitHub\AsyncProgram\AsyncConsole\bin\Debug\AsyncConsole.exe
 D:\GitHub\AsyncProgram\AsyncConsole\bin\Debug\AsyncConsole.pdb
 D:\GitHub\AsyncProgram\AsyncConsole\obj\Debug\AsyncConsole.csprojResolveAssemblyReference.cache
+E:\GitHub\AsyncProgram\AsyncConsole\bin\Debug\AsyncConsole.exe.config
+E:\GitHub\AsyncProgram\AsyncConsole\bin\Debug\AsyncConsole.exe
+E:\GitHub\AsyncProgram\AsyncConsole\bin\Debug\AsyncConsole.pdb
+E:\GitHub\AsyncProgram\AsyncConsole\obj\Debug\AsyncConsole.exe
+E:\GitHub\AsyncProgram\AsyncConsole\obj\Debug\AsyncConsole.pdb
